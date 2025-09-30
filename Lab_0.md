@@ -13,5 +13,8 @@ Your task is to finish the steps which are marked with "Task" to
 finish the implementation of the game.
 
 ### Task 2:
-Extend the program to let the player choose a flexible board size in the beginning
+Extend the program to let the player choose a flexible board size in the beginning.
 (Note: The board must always be of square dimension, e.g. 4x4, 5x5, etc.).
+
+### Task 3:
+Evaluate the three available agents by playing against them.
