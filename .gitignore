@@ -157,6 +157,7 @@ cython_debug/
 
 # solutions
 solutions/*
+!solutions/S0_TicTacToe.py
 !solutions/S1_FrozenLake_Random.py
 !solutions/S2_FrozenLake_PolicyEval.py
 !solutions/S3_FrozenLake_Prediction_Task1.py
