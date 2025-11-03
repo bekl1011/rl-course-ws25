@@ -38,7 +38,7 @@ def play_episode(q_values=None):
 
 
 def main():
-    successful_episodes = 1000
+    successful_episodes = 100
     plot_data = []
     while successful_episodes > 0:
         # play random episode

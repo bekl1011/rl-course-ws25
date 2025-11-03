@@ -28,7 +28,7 @@ def play_episode():
 
 
 def main():
-    successful_episodes = 1000
+    successful_episodes = 100
     while successful_episodes > 0:
         s_a, r_s = play_episode()
 

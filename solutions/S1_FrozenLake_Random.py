@@ -89,7 +89,7 @@ else:
 
 ###### Task 3 ######
 print(f"\n ### TASK 3 ### ")
-env_slippery = gym.make("FrozenLake-v1")
+env_slippery = gym.make("FrozenLake-v1", is_slippery=True, render_mode="ansi")
 try:
     s, a, r = play_episode(env_slippery, policy)
     if r > 0:
